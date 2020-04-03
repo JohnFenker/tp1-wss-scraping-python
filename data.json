@@ -1,178 +1,764 @@
 {
    "peliculas": [
       {
-         "name_film": "Cinema La Plata"
+         "Titulo": "007 Bond: Sin Tiempo Para Morir",
+         "G\u00e9nero": [
+            "Acci\u00f3n"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "Reino Unido"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Cary Joji Fukunaga"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Daniel Craig",
+            " Rami Malek",
+            " Ralph Fiennes",
+            " Naomie Harris",
+            " Ben Whishaw",
+            " Jeffrey Wright",
+            " L\u00e9a Seydoux",
+            " Ana de Armas",
+            " Rory Kinnear"
+         ]
       },
       {
-         "name_film": null
+         "Titulo": "Antlers",
+         "G\u00e9nero": [
+            "Terror"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Scott Cooper"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Keri Russell",
+            " Jesse Plemons",
+            " Graham Greene",
+            " Scott Haze",
+            " Rory Cochrane",
+            " Amy Madigan",
+            " Cody Davis",
+            " Sawyer Jones",
+            " Arlo Hajdu",
+            " J.T. Corbitt"
+         ]
       },
       {
-         "name_film": "SALAS CERRADAS"
+         "Titulo": "Black Widow",
+         "G\u00e9nero": [
+            "Acci\u00f3n",
+            " Aventuras"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Cate Shortland"
+         ],
+         "Calificacion": [
+            "-"
+         ],
+         "Actores": [
+            "Scarlett Johansson",
+            " Florence Pugh",
+            " Rachel Weisz",
+            " David Harbour"
+         ]
       },
       {
-         "name_film": "007 BOND: SIN TIEMPO PARA MORIR"
+         "Titulo": "Bob Esponja 3",
+         "G\u00e9nero": [
+            "Animaci\u00f3n"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Tim Hill"
+         ],
+         "Calificacion": [
+            "Apta todo p\u00fablico"
+         ],
+         "Actores": [
+            "VOCES ORIGINALES: Clancy Brown",
+            " . Awkwafina."
+         ]
       },
       {
-         "name_film": "ANTLERS"
+         "Titulo": "Chambre 212",
+         "G\u00e9nero": [
+            "Comedia dram\u00e1tica"
+         ],
+         "Idioma": [
+            "Franc\u00e9s subtitulado"
+         ],
+         "Origen": [
+            "Francia"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "86 minutos."
+         ],
+         "Director": [
+            "Christophe Honor\u00e9"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Chiara Mastroianni",
+            " Vincent Lacoste",
+            " Camille Cottin",
+            " Benjamin Biolay",
+            " Marie-Christine Adam",
+            " Carole Bouquet"
+         ]
       },
       {
-         "name_film": "BLACK WIDOW"
+         "Titulo": "Coraz\u00f3n Loco",
+         "G\u00e9nero": [
+            "Comedia"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "Argentina"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "108 minutos."
+         ],
+         "Director": [
+            "Marcos Carnevale"
+         ],
+         "Calificacion": [
+            "Apta mayores de 13 a\u00f1os"
+         ],
+         "Actores": [
+            "Adri\u00e1n Suar",
+            " Soledad Villamil",
+            " Gabriela Toscano",
+            " Alan Sabbagh",
+            " Dar\u00edo Barassi",
+            " Magela Zanotta",
+            " Betiana Blum"
+         ]
       },
       {
-         "name_film": "BOB ESPONJA 3"
+         "Titulo": "El Jardin Secreto",
+         "G\u00e9nero": [
+            "Drama fantastico"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Marc Munden"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Dixie Egerickx",
+            " Colin Firth",
+            " Julie Walters",
+            " Maeve Dermody",
+            " Sonia Goswami",
+            " Jemma Powell",
+            " Amir Wilson",
+            " Albert Giannitelli"
+         ]
       },
       {
-         "name_film": "CHAMBRE 212"
+         "Titulo": "Emma",
+         "G\u00e9nero": [
+            "Comedia dram\u00e1tica"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "Reino Unido"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Autumn de Wilde"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Anya Taylor-Joy",
+            " Johnny Flynn",
+            " Bill Nighy",
+            " Miranda Hart",
+            " Mia Goth",
+            " Josh O\u00b4Connor",
+            " Callum Turner",
+            " Rupert Graves",
+            " Gemma Whelan"
+         ]
       },
       {
-         "name_film": "CORAZ\u00d3N LOCO"
+         "Titulo": "La Casa Del Terror",
+         "G\u00e9nero": [
+            "Terror"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "92 minutos."
+         ],
+         "Director": [
+            "Scott Beck",
+            " Bryan Woods"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Katie Stevens",
+            " Will Brittain",
+            " Lauryn Alisa McClain",
+            " Andrew Caldwell",
+            " Shazi Raja",
+            " Schuyler Helford",
+            " Phillip Johnson Richardson",
+            ""
+         ]
       },
       {
-         "name_film": "EL JARDIN SECRETO"
+         "Titulo": "La Isla De La Fantas\u00eda",
+         "G\u00e9nero": [
+            "Comedia / Terror"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Jeff Wadlow"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Michael Pe\u00f1a",
+            " Maggie Q",
+            " Michael Rooker",
+            " Lucy Hale",
+            " Kim Coates",
+            " Portia Doubleday",
+            " Ryan Hansen",
+            " Charlotte McKinney",
+            " Jimmy O. Yang"
+         ]
       },
       {
-         "name_film": "EMMA"
+         "Titulo": "La Mujer En La Ventana",
+         "G\u00e9nero": [
+            "Thriller"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "Reino Unido"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Joe Wright"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Amy Adams",
+            " Julianne Moore",
+            " Gary Oldman",
+            " Anthony Mackie",
+            " Wyatt Russell",
+            " Brian Tyree Henry",
+            " Fred Hechinger"
+         ]
       },
       {
-         "name_film": "LA CASA DEL TERROR"
+         "Titulo": "Los Nuevos Mutantes",
+         "G\u00e9nero": [
+            "Ciencia Ficci\u00f3n"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Josh Boone"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Anya Taylor-Joy",
+            " Maisie Williams",
+            " Rosario Dawson",
+            " Charlie Heaton",
+            " Henry Zaga",
+            " Antonio Banderas",
+            " Blu Hunt",
+            " Happy Anderson"
+         ]
       },
       {
-         "name_film": "LA ISLA DE LA FANTAS\u00cdA"
+         "Titulo": "Mujer Maravilla 2",
+         "G\u00e9nero": [
+            "Acci\u00f3n"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Patty Jenkins"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Gal Gadot",
+            " Chris Pine",
+            " Kristen Wiig",
+            " Pedro Pascal",
+            " Robin Wright",
+            " Connie Nielsen",
+            " Gabriella Wilde",
+            " Natasha Rothwell",
+            " Ravi Patel"
+         ]
       },
       {
-         "name_film": "LA MUJER EN LA VENTANA"
+         "Titulo": "Mul\u00e1n",
+         "G\u00e9nero": [
+            "Acci\u00f3n",
+            " Aventuras"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Niki Caro"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Liu Yifei",
+            " Donnie Yen",
+            " Gong Li",
+            " Jet Li",
+            " Jason Scott Lee",
+            " Rosalind Chao",
+            " Utkarsh Ambudkar",
+            " Tzi Ma",
+            " Yoson An",
+            " Doua Moua"
+         ]
       },
       {
-         "name_film": "LOS NUEVOS MUTANTES"
+         "Titulo": "Peter Rabbit 2",
+         "G\u00e9nero": [
+            "Animaci\u00f3n"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Will Gluck"
+         ],
+         "Calificacion": [
+            "Apta todo p\u00fablico"
+         ],
+         "Actores": [
+            "animaci\u00f3n"
+         ]
       },
       {
-         "name_film": "MUJER MARAVILLA 2"
+         "Titulo": "R\u00e1pidos Y Furiosos 9",
+         "G\u00e9nero": [
+            "Acci\u00f3n"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Justin Lin"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Vin Diesel",
+            " Charlize Theron",
+            " Jordana Brewster",
+            " Michelle Rodriguez",
+            " Helen Mirren",
+            " Lucas Black",
+            " Tyrese Gibson",
+            " Finn Cole"
+         ]
       },
       {
-         "name_film": "MUL\u00c1N"
+         "Titulo": "Scooby!",
+         "G\u00e9nero": [
+            "Acci\u00f3n",
+            " Aventuras"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Tony Cervone"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "animaci\u00f3n"
+         ]
       },
       {
-         "name_film": "PETER RABBIT 2"
+         "Titulo": "The Photograph",
+         "G\u00e9nero": [
+            "Drama romantico"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "106 minutos."
+         ],
+         "Director": [
+            "Stella Meghie"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Keith Stanfield",
+            " Issa Rae",
+            " Chelsea Peretti",
+            " Kingsley Ben-Adir",
+            " Courtney B. Vance",
+            " Lil Rel Howery",
+            " Teyonah Parris"
+         ]
       },
       {
-         "name_film": "R\u00c1PIDOS Y FURIOSOS 9"
+         "Titulo": "Top Gun 2",
+         "G\u00e9nero": [
+            "Acci\u00f3n"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Joseph Kosinski"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Tom Cruise",
+            " Val Kilmer",
+            " Miles Teller",
+            " Jennifer Connelly",
+            " Glen Powell",
+            " Jon Hamm",
+            " Ed Harris",
+            " Lewis Pullman",
+            " Jay Ellis",
+            " Thomasin McKenzie"
+         ]
       },
       {
-         "name_film": "SCOOBY!"
+         "Titulo": "Trolls 2",
+         "G\u00e9nero": [
+            "Animaci\u00f3n"
+         ],
+         "Idioma": [
+            "Castellano"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "No disponible"
+         ],
+         "Director": [
+            "Walt Dohrn",
+            " David P. Smith"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "animaci\u00f3n"
+         ]
       },
       {
-         "name_film": "THE PHOTOGRAPH"
+         "Titulo": "Un Lugar En Silencio: Parte 2",
+         "G\u00e9nero": [
+            "Terror"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "105 minutos."
+         ],
+         "Director": [
+            "John Krasinski"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "Emily Blunt",
+            " Cillian Murphy",
+            " Djimon Hounsou",
+            " Noah Jupe",
+            " Millicent Simmonds",
+            " Wayne Duvall",
+            " Lauren-Ashley Cristiano",
+            ""
+         ]
       },
       {
-         "name_film": "TOP GUN 2"
+         "Titulo": "Una Vida Oculta",
+         "G\u00e9nero": [
+            "B\u00e9lica"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "173 minutos."
+         ],
+         "Director": [
+            "Terrence Malick"
+         ],
+         "Calificacion": [
+            "No determinado"
+         ],
+         "Actores": [
+            "August Diehl",
+            " Matthias Schoenaerts",
+            " Valerie Pachner",
+            " Michael Nyqvist",
+            " J\u00fcrgen Prochnow",
+            " Bruno Ganz",
+            " Martin Wuttke"
+         ]
       },
       {
-         "name_film": "TROLLS 2"
-      },
-      {
-         "name_film": "UN LUGAR EN SILENCIO: PARTE 2"
-      },
-      {
-         "name_film": "UNA VIDA OCULTA"
-      },
-      {
-         "name_film": "VIGILANDO A JEAN SEBERG"
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": ""
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": null
-      },
-      {
-         "name_film": "Descarga la aplicaci\u00f3n m\u00f3vil de Google Play"
-      },
-      {
-         "name_film": "Descarga la aplicaci\u00f3n m\u00f3vil del App Store"
-      },
-      {
-         "name_film": "Descarga la aplicaci\u00f3n m\u00f3vil de la Tienda Windows"
-      },
-      {
-         "name_film": "Seguinos en Facebook"
-      },
-      {
-         "name_film": "Seguinos en Instagram"
-      },
-      {
-         "name_film": "Seguinos en Twitter"
-      },
-      {
-         "name_film": ""
+         "Titulo": "Vigilando A Jean Seberg",
+         "G\u00e9nero": [
+            "Drama - Biogr\u00e1fico"
+         ],
+         "Idioma": [
+            "Ingl\u00e9s subtitulada"
+         ],
+         "Origen": [
+            "EEUU"
+         ],
+         "Web Oficial": [
+            "No disponible"
+         ],
+         "Duracion": [
+            "96 minutos."
+         ],
+         "Director": [
+            "Benedict Andrews"
+         ],
+         "Calificacion": [
+            "-"
+         ],
+         "Actores": [
+            "Kristen Stewart",
+            " Jack O\u00b4Connell",
+            " Vince Vaughn",
+            " Stephen Root",
+            " Zazie Beetz",
+            " Margaret Qualley",
+            " Anthony Mackie",
+            " Colm Meaney"
+         ]
       }
    ]
 }
